@@ -1,6 +1,6 @@
 # ProgramacionConcurrente
 
-This repository has examples of how to:
+This repository has examples of how to: 
  --> Producer - Consumer
  --> Tie breaks with semaphores
 
